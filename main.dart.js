@@ -36337,7 +36337,7 @@ $1(a){this.a.aY().$0()
 this.b.en()},
 $S:6}
 A.Ba.prototype={
-S(a){var s=null,r=A.aaH("Auto Scroll Example",A.o_(s,s,B.Dz,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))
+S(a){var s=null,r=A.aaH("Auto Scroll",A.o_(s,s,B.Dz,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))
 return new A.rv(new A.tH(new A.ps(r,!0,new A.I4(s,s,1/0,56),s),new A.pw(s),s),"Auto Scroll in Flutter",!1,s)}}
 A.pw.prototype={
 ap(){return new A.EM(A.Vk(),B.l)}}
